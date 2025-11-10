@@ -1,0 +1,6 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "editor.formatOnPaste": true,
+    "editor.tabSize": 4,
+    "files.autoSave": "onFocusChange"
+}
